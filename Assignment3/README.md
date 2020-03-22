@@ -28,7 +28,7 @@ Advanced Features
 talked about in class and simply adds the specular component to the overall colour value
 for each fragment. It was again based on learnopengl.com as well. It is possible to turn
 this feature off for SceneObjects 0, 1 and 2 using the number (not numpad) keys 0-3.
-This works by loading in a new shader file. This prints errors to console but works fine.
+This works by loading in a new shader file.
 
 - First Person View Camera - The camera is implemented as specified and uses the WASD keys for
 movement forwards, left, backwards and right respectively. The mouse is used to change the pitch
