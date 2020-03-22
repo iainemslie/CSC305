@@ -38,8 +38,7 @@ checked for every iteration of the render loop. This made it easier to have smoo
 
 - Load and render a simple mesh - It is possible for the user to load the suzanne.obj and
 bunny.obj into the scene. It is assumed that they are contained in the same folder as the 
-shaders. I have hardcoded their paths into the paths.hpp file which is included.
-It is possible to turn on and off rendering for each object in the scene using the numpad keys from 0 - 3
+shaders. It is possible to turn on and off rendering for each object in the scene using the numpad keys from 0 - 3
 Wireframe mode can be turned on and off by using the spacebar.
 These are implemented using the keyboard callback since it gives better responsiveness for single key presses.
 It is possible to turn each SceneObject's rendering off using the numpad 0, 1, 2 and 3 keys.
