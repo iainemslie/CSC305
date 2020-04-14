@@ -41,7 +41,7 @@ The following advanced features are implemented:
  - Rendering a Mesh - Every object in the scene is a mesh.
  
  
- All of my meshes were downloaded for free from turbosquid.combined
+ All of my meshes were downloaded for free from turbosquid.com
  The photos I used were free and found at the following locations:
  
  https://unsplash.com/s/photos/night-skyline
