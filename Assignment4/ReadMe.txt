@@ -1,5 +1,5 @@
 CSC 305 Spring 2020 Assignment4 ReadMe
-Iain Emslie V00825434
+Iain Emslie
 
 My raytracing program implements all of the basic features listed below:
  - A virtual pinhole camera
