@@ -19,7 +19,6 @@
 #include <mutex>
 #include <condition_variable>
 
-//Remember to remove iostream when done
 #include <iostream>
 
 atlas::math::Normal face_normal;
